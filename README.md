@@ -67,8 +67,8 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 </details>
 
 ## 🏷 Support   
-- Follow Channel [@Userbotch](https://t.me/userbotch) untuk info Update bot 
-- Gabung Group [@ramsupportt](https://t.me/ramsupportt) untuk diskusi, pelaporan bug, dan bantuan tentang File-Sharing-Man.
+- Follow Channel [@projectdap](https://t.me/projectdap) untuk info Update bot 
+- Gabung Group [@privatedap](https://t.me/privatedap) untuk diskusi, pelaporan bug, dan bantuan tentang File-Sharing-Man.
 
 ## 👨🏻‍💻 Credits
 
@@ -76,6 +76,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 -  [Risman](https://github.com/mrismanaziz) for [File-Sharing-Man](https://github.com/mrismanaziz/File-Sharing-Man)
 -  [Rama](https://github.com/ramadhani892) for [3-BUTTONS](https://github.com/ramadhani892/3-BUTTONS)
 -  Based on [CodeXBotz](https://github.com/CodeXBotz) Repo [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
+-  [Mael](https://github.com/Maelnya) for [3-BUTTONS](https://github.com/Maelnya/3-BUTTONS)
 
 ## 📑 License
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
